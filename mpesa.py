@@ -1,6 +1,6 @@
 # Simple M-Pesa System Simulation
 
-balance = 1000  # starting balance
+balance = 0  # starting balance
 
 def check_balance():
     print("Your balance is:", balance)
